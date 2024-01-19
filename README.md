@@ -110,11 +110,14 @@ created to the original images/texts, so no significant storage space is require
 If you use this dataset, please cite the following paper:
 ```
 @article{,
-  title={},
-  author={},
-  journal={},
-  year={},
-  publisher={}
+    author = {Tobias Pettersson and Maria Riveiro and Tuwe Löfström},
+    title = {Multimodal Fine-Grained Grocery Product Recognition using Image and OCR Text},
+    journal = {},
+    year = {2024},
+    volume = {},
+    number = {},
+    pages = {},
+    note = {under review}
 }
 ```
 
