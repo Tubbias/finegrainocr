@@ -1,0 +1,716 @@
+[
+  {
+    "locale": "en",
+    "description": "WHITE\nWHOLE MUSHROOMS\nCHAMPIGNONS ENTIERS\nBLANCS\nMILD AND DELICATE\nDOUX ET DELICATS\n227 g\nPRODUCT OF CANADA\nPRODUIT DU CANADA\nLOBLARS INC\nTORONTO E 258\nCANAAC\nTMMCL S INC\n60383\n",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1547,
+          "y": 687
+        },
+        {
+          "x": 1899,
+          "y": 687
+        },
+        {
+          "x": 1899,
+          "y": 1007
+        },
+        {
+          "x": 1547,
+          "y": 1007
+        }
+      ]
+    }
+  },
+  {
+    "description": "WHITE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1629,
+          "y": 687
+        },
+        {
+          "x": 1815,
+          "y": 692
+        },
+        {
+          "x": 1814,
+          "y": 729
+        },
+        {
+          "x": 1628,
+          "y": 724
+        }
+      ]
+    }
+  },
+  {
+    "description": "WHOLE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1656,
+          "y": 729
+        },
+        {
+          "x": 1703,
+          "y": 730
+        },
+        {
+          "x": 1703,
+          "y": 742
+        },
+        {
+          "x": 1656,
+          "y": 741
+        }
+      ]
+    }
+  },
+  {
+    "description": "MUSHROOMS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1710,
+          "y": 727
+        },
+        {
+          "x": 1796,
+          "y": 728
+        },
+        {
+          "x": 1796,
+          "y": 744
+        },
+        {
+          "x": 1710,
+          "y": 743
+        }
+      ]
+    }
+  },
+  {
+    "description": "CHAMPIGNONS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1653,
+          "y": 741
+        },
+        {
+          "x": 1746,
+          "y": 743
+        },
+        {
+          "x": 1746,
+          "y": 760
+        },
+        {
+          "x": 1653,
+          "y": 758
+        }
+      ]
+    }
+  },
+  {
+    "description": "ENTIERS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1756,
+          "y": 743
+        },
+        {
+          "x": 1808,
+          "y": 744
+        },
+        {
+          "x": 1808,
+          "y": 761
+        },
+        {
+          "x": 1756,
+          "y": 760
+        }
+      ]
+    }
+  },
+  {
+    "description": "BLANCS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1648,
+          "y": 757
+        },
+        {
+          "x": 1816,
+          "y": 758
+        },
+        {
+          "x": 1816,
+          "y": 794
+        },
+        {
+          "x": 1648,
+          "y": 793
+        }
+      ]
+    }
+  },
+  {
+    "description": "MILD",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1674,
+          "y": 797
+        },
+        {
+          "x": 1705,
+          "y": 798
+        },
+        {
+          "x": 1704,
+          "y": 813
+        },
+        {
+          "x": 1673,
+          "y": 812
+        }
+      ]
+    }
+  },
+  {
+    "description": "AND",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1708,
+          "y": 799
+        },
+        {
+          "x": 1732,
+          "y": 800
+        },
+        {
+          "x": 1731,
+          "y": 815
+        },
+        {
+          "x": 1707,
+          "y": 814
+        }
+      ]
+    }
+  },
+  {
+    "description": "DELICATE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1737,
+          "y": 800
+        },
+        {
+          "x": 1791,
+          "y": 803
+        },
+        {
+          "x": 1790,
+          "y": 818
+        },
+        {
+          "x": 1736,
+          "y": 816
+        }
+      ]
+    }
+  },
+  {
+    "description": "DOUX",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1680,
+          "y": 812
+        },
+        {
+          "x": 1709,
+          "y": 813
+        },
+        {
+          "x": 1708,
+          "y": 826
+        },
+        {
+          "x": 1679,
+          "y": 825
+        }
+      ]
+    }
+  },
+  {
+    "description": "ET",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1716,
+          "y": 813
+        },
+        {
+          "x": 1728,
+          "y": 813
+        },
+        {
+          "x": 1727,
+          "y": 827
+        },
+        {
+          "x": 1715,
+          "y": 827
+        }
+      ]
+    }
+  },
+  {
+    "description": "DELICATS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1734,
+          "y": 814
+        },
+        {
+          "x": 1785,
+          "y": 816
+        },
+        {
+          "x": 1784,
+          "y": 830
+        },
+        {
+          "x": 1733,
+          "y": 828
+        }
+      ]
+    }
+  },
+  {
+    "description": "227",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1550,
+          "y": 878
+        },
+        {
+          "x": 1627,
+          "y": 884
+        },
+        {
+          "x": 1623,
+          "y": 925
+        },
+        {
+          "x": 1547,
+          "y": 919
+        }
+      ]
+    }
+  },
+  {
+    "description": "g",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1641,
+          "y": 889
+        },
+        {
+          "x": 1664,
+          "y": 891
+        },
+        {
+          "x": 1661,
+          "y": 928
+        },
+        {
+          "x": 1638,
+          "y": 926
+        }
+      ]
+    }
+  },
+  {
+    "description": "PRODUCT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1723,
+          "y": 886
+        },
+        {
+          "x": 1797,
+          "y": 892
+        },
+        {
+          "x": 1795,
+          "y": 914
+        },
+        {
+          "x": 1721,
+          "y": 908
+        }
+      ]
+    }
+  },
+  {
+    "description": "OF",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1804,
+          "y": 894
+        },
+        {
+          "x": 1823,
+          "y": 896
+        },
+        {
+          "x": 1821,
+          "y": 914
+        },
+        {
+          "x": 1802,
+          "y": 912
+        }
+      ]
+    }
+  },
+  {
+    "description": "CANADA",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1830,
+          "y": 896
+        },
+        {
+          "x": 1898,
+          "y": 902
+        },
+        {
+          "x": 1896,
+          "y": 923
+        },
+        {
+          "x": 1828,
+          "y": 917
+        }
+      ]
+    }
+  },
+  {
+    "description": "PRODUIT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1723,
+          "y": 906
+        },
+        {
+          "x": 1793,
+          "y": 912
+        },
+        {
+          "x": 1791,
+          "y": 932
+        },
+        {
+          "x": 1721,
+          "y": 926
+        }
+      ]
+    }
+  },
+  {
+    "description": "DU",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1801,
+          "y": 912
+        },
+        {
+          "x": 1823,
+          "y": 914
+        },
+        {
+          "x": 1821,
+          "y": 936
+        },
+        {
+          "x": 1799,
+          "y": 934
+        }
+      ]
+    }
+  },
+  {
+    "description": "CANADA",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1830,
+          "y": 914
+        },
+        {
+          "x": 1899,
+          "y": 920
+        },
+        {
+          "x": 1897,
+          "y": 940
+        },
+        {
+          "x": 1828,
+          "y": 935
+        }
+      ]
+    }
+  },
+  {
+    "description": "LOBLARS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1771,
+          "y": 941
+        },
+        {
+          "x": 1825,
+          "y": 944
+        },
+        {
+          "x": 1824,
+          "y": 959
+        },
+        {
+          "x": 1770,
+          "y": 956
+        }
+      ]
+    }
+  },
+  {
+    "description": "INC",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1830,
+          "y": 944
+        },
+        {
+          "x": 1846,
+          "y": 945
+        },
+        {
+          "x": 1845,
+          "y": 961
+        },
+        {
+          "x": 1829,
+          "y": 960
+        }
+      ]
+    }
+  },
+  {
+    "description": "TORONTO",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1769,
+          "y": 954
+        },
+        {
+          "x": 1823,
+          "y": 957
+        },
+        {
+          "x": 1822,
+          "y": 972
+        },
+        {
+          "x": 1768,
+          "y": 969
+        }
+      ]
+    }
+  },
+  {
+    "description": "E",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1828,
+          "y": 958
+        },
+        {
+          "x": 1846,
+          "y": 959
+        },
+        {
+          "x": 1846,
+          "y": 964
+        },
+        {
+          "x": 1828,
+          "y": 963
+        }
+      ]
+    }
+  },
+  {
+    "description": "258",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1854,
+          "y": 962
+        },
+        {
+          "x": 1873,
+          "y": 963
+        },
+        {
+          "x": 1872,
+          "y": 976
+        },
+        {
+          "x": 1853,
+          "y": 975
+        }
+      ]
+    }
+  },
+  {
+    "description": "CANAAC",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1772,
+          "y": 968
+        },
+        {
+          "x": 1828,
+          "y": 973
+        },
+        {
+          "x": 1826,
+          "y": 989
+        },
+        {
+          "x": 1771,
+          "y": 984
+        }
+      ]
+    }
+  },
+  {
+    "description": "TMMCL",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1769,
+          "y": 982
+        },
+        {
+          "x": 1826,
+          "y": 986
+        },
+        {
+          "x": 1825,
+          "y": 1002
+        },
+        {
+          "x": 1768,
+          "y": 998
+        }
+      ]
+    }
+  },
+  {
+    "description": "S",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1864,
+          "y": 990
+        },
+        {
+          "x": 1871,
+          "y": 991
+        },
+        {
+          "x": 1870,
+          "y": 1006
+        },
+        {
+          "x": 1863,
+          "y": 1006
+        }
+      ]
+    }
+  },
+  {
+    "description": "INC",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1878,
+          "y": 990
+        },
+        {
+          "x": 1894,
+          "y": 991
+        },
+        {
+          "x": 1893,
+          "y": 1007
+        },
+        {
+          "x": 1877,
+          "y": 1006
+        }
+      ]
+    }
+  },
+  {
+    "description": "60383",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1588,
+          "y": 989
+        },
+        {
+          "x": 1653,
+          "y": 989
+        },
+        {
+          "x": 1653,
+          "y": 1007
+        },
+        {
+          "x": 1588,
+          "y": 1007
+        }
+      ]
+    }
+  }
+]

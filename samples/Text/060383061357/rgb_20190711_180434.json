@@ -1,0 +1,1659 @@
+[
+  {
+    "locale": "en",
+    "description": "slices\nIZtanches\nmedium\n100% real cheese\nvrai fromage \u00e0 100 %\nmi-fort\n34% M.F./M.G. 39% MOISTURE/HUMIDIT\u00c9\nno name sans nome\n230 g\nCHEDDAR CHEESE\nFROMAGE CHEDDAR\nGARDER AU REFRIGERATEUR\nGRIVER N\nLOBLAWS INC, TORONTO MAT 258, CANADA O 2014 OTMMC LOBLANS INC\nINGREDIENTS PASTELRZED MILK MODFIED MILK INGREDENTS, PASTEURCED\nCREAM, BACTERIAL CLUTURE, SALT ANNATTO MOROBAL ENYME\nINGREDIENTS:LAIT PASTELIRISE, SUBSTANCES LAITERES MODIFIES, CREME\nPASTEURISE, CULTURE BACTERENE, SEL, ROCOL, ENZYME MICROBEN\n60383 06135\n",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1391,
+          "y": 957
+        },
+        {
+          "x": 2010,
+          "y": 957
+        },
+        {
+          "x": 2010,
+          "y": 1435
+        },
+        {
+          "x": 1391,
+          "y": 1435
+        }
+      ]
+    }
+  },
+  {
+    "description": "slices",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1394,
+          "y": 1368
+        },
+        {
+          "x": 1391,
+          "y": 1312
+        },
+        {
+          "x": 1415,
+          "y": 1311
+        },
+        {
+          "x": 1418,
+          "y": 1367
+        }
+      ]
+    }
+  },
+  {
+    "description": "IZtanches",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1416,
+          "y": 1389
+        },
+        {
+          "x": 1413,
+          "y": 1280
+        },
+        {
+          "x": 1443,
+          "y": 1279
+        },
+        {
+          "x": 1446,
+          "y": 1388
+        }
+      ]
+    }
+  },
+  {
+    "description": "medium",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1502,
+          "y": 1412
+        },
+        {
+          "x": 1481,
+          "y": 1170
+        },
+        {
+          "x": 1557,
+          "y": 1163
+        },
+        {
+          "x": 1578,
+          "y": 1405
+        }
+      ]
+    }
+  },
+  {
+    "description": "100%",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1595,
+          "y": 1428
+        },
+        {
+          "x": 1588,
+          "y": 1354
+        },
+        {
+          "x": 1617,
+          "y": 1352
+        },
+        {
+          "x": 1624,
+          "y": 1425
+        }
+      ]
+    }
+  },
+  {
+    "description": "real",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1588,
+          "y": 1344
+        },
+        {
+          "x": 1583,
+          "y": 1294
+        },
+        {
+          "x": 1610,
+          "y": 1292
+        },
+        {
+          "x": 1615,
+          "y": 1342
+        }
+      ]
+    }
+  },
+  {
+    "description": "cheese",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1581,
+          "y": 1288
+        },
+        {
+          "x": 1573,
+          "y": 1200
+        },
+        {
+          "x": 1602,
+          "y": 1198
+        },
+        {
+          "x": 1610,
+          "y": 1285
+        }
+      ]
+    }
+  },
+  {
+    "description": "vrai",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1635,
+          "y": 1428
+        },
+        {
+          "x": 1629,
+          "y": 1378
+        },
+        {
+          "x": 1656,
+          "y": 1375
+        },
+        {
+          "x": 1662,
+          "y": 1425
+        }
+      ]
+    }
+  },
+  {
+    "description": "fromage",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1629,
+          "y": 1372
+        },
+        {
+          "x": 1616,
+          "y": 1264
+        },
+        {
+          "x": 1651,
+          "y": 1260
+        },
+        {
+          "x": 1664,
+          "y": 1368
+        }
+      ]
+    }
+  },
+  {
+    "description": "\u00e0",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1616,
+          "y": 1257
+        },
+        {
+          "x": 1614,
+          "y": 1242
+        },
+        {
+          "x": 1640,
+          "y": 1239
+        },
+        {
+          "x": 1642,
+          "y": 1254
+        }
+      ]
+    }
+  },
+  {
+    "description": "100",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1614,
+          "y": 1232
+        },
+        {
+          "x": 1609,
+          "y": 1191
+        },
+        {
+          "x": 1634,
+          "y": 1188
+        },
+        {
+          "x": 1639,
+          "y": 1229
+        }
+      ]
+    }
+  },
+  {
+    "description": "%",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1608,
+          "y": 1182
+        },
+        {
+          "x": 1605,
+          "y": 1161
+        },
+        {
+          "x": 1629,
+          "y": 1158
+        },
+        {
+          "x": 1632,
+          "y": 1179
+        }
+      ]
+    }
+  },
+  {
+    "description": "mi-fort",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1680,
+          "y": 1436
+        },
+        {
+          "x": 1643,
+          "y": 1207
+        },
+        {
+          "x": 1710,
+          "y": 1196
+        },
+        {
+          "x": 1747,
+          "y": 1425
+        }
+      ]
+    }
+  },
+  {
+    "description": "34%",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1759,
+          "y": 1436
+        },
+        {
+          "x": 1749,
+          "y": 1374
+        },
+        {
+          "x": 1789,
+          "y": 1367
+        },
+        {
+          "x": 1799,
+          "y": 1430
+        }
+      ]
+    }
+  },
+  {
+    "description": "M.F./M.G.",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1750,
+          "y": 1365
+        },
+        {
+          "x": 1733,
+          "y": 1259
+        },
+        {
+          "x": 1767,
+          "y": 1254
+        },
+        {
+          "x": 1784,
+          "y": 1360
+        }
+      ]
+    }
+  },
+  {
+    "description": "39%",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1734,
+          "y": 1251
+        },
+        {
+          "x": 1726,
+          "y": 1204
+        },
+        {
+          "x": 1757,
+          "y": 1199
+        },
+        {
+          "x": 1765,
+          "y": 1246
+        }
+      ]
+    }
+  },
+  {
+    "description": "MOISTURE/HUMIDIT\u00c9",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1720,
+          "y": 1196
+        },
+        {
+          "x": 1686,
+          "y": 980
+        },
+        {
+          "x": 1724,
+          "y": 974
+        },
+        {
+          "x": 1759,
+          "y": 1190
+        }
+      ]
+    }
+  },
+  {
+    "description": "no",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1823,
+          "y": 1424
+        },
+        {
+          "x": 1816,
+          "y": 1384
+        },
+        {
+          "x": 1835,
+          "y": 1380
+        },
+        {
+          "x": 1842,
+          "y": 1421
+        }
+      ]
+    }
+  },
+  {
+    "description": "name",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1815,
+          "y": 1381
+        },
+        {
+          "x": 1807,
+          "y": 1333
+        },
+        {
+          "x": 1826,
+          "y": 1329
+        },
+        {
+          "x": 1835,
+          "y": 1378
+        }
+      ]
+    }
+  },
+  {
+    "description": "sans",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1804,
+          "y": 1316
+        },
+        {
+          "x": 1795,
+          "y": 1264
+        },
+        {
+          "x": 1814,
+          "y": 1261
+        },
+        {
+          "x": 1823,
+          "y": 1313
+        }
+      ]
+    }
+  },
+  {
+    "description": "nome",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1793,
+          "y": 1253
+        },
+        {
+          "x": 1784,
+          "y": 1202
+        },
+        {
+          "x": 1804,
+          "y": 1198
+        },
+        {
+          "x": 1813,
+          "y": 1250
+        }
+      ]
+    }
+  },
+  {
+    "description": "230",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1860,
+          "y": 1427
+        },
+        {
+          "x": 1857,
+          "y": 1372
+        },
+        {
+          "x": 1896,
+          "y": 1370
+        },
+        {
+          "x": 1899,
+          "y": 1425
+        }
+      ]
+    }
+  },
+  {
+    "description": "g",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1854,
+          "y": 1363
+        },
+        {
+          "x": 1853,
+          "y": 1344
+        },
+        {
+          "x": 1896,
+          "y": 1341
+        },
+        {
+          "x": 1897,
+          "y": 1360
+        }
+      ]
+    }
+  },
+  {
+    "description": "CHEDDAR",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1852,
+          "y": 1320
+        },
+        {
+          "x": 1844,
+          "y": 1282
+        },
+        {
+          "x": 1860,
+          "y": 1279
+        },
+        {
+          "x": 1868,
+          "y": 1317
+        }
+      ]
+    }
+  },
+  {
+    "description": "CHEESE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1844,
+          "y": 1279
+        },
+        {
+          "x": 1837,
+          "y": 1248
+        },
+        {
+          "x": 1853,
+          "y": 1244
+        },
+        {
+          "x": 1860,
+          "y": 1276
+        }
+      ]
+    }
+  },
+  {
+    "description": "FROMAGE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1868,
+          "y": 1322
+        },
+        {
+          "x": 1857,
+          "y": 1279
+        },
+        {
+          "x": 1873,
+          "y": 1275
+        },
+        {
+          "x": 1884,
+          "y": 1318
+        }
+      ]
+    }
+  },
+  {
+    "description": "CHEDDAR",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1856,
+          "y": 1276
+        },
+        {
+          "x": 1847,
+          "y": 1241
+        },
+        {
+          "x": 1863,
+          "y": 1237
+        },
+        {
+          "x": 1872,
+          "y": 1272
+        }
+      ]
+    }
+  },
+  {
+    "description": "GARDER",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1845,
+          "y": 1216
+        },
+        {
+          "x": 1839,
+          "y": 1183
+        },
+        {
+          "x": 1852,
+          "y": 1181
+        },
+        {
+          "x": 1858,
+          "y": 1214
+        }
+      ]
+    }
+  },
+  {
+    "description": "AU",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1839,
+          "y": 1181
+        },
+        {
+          "x": 1837,
+          "y": 1169
+        },
+        {
+          "x": 1850,
+          "y": 1167
+        },
+        {
+          "x": 1852,
+          "y": 1179
+        }
+      ]
+    }
+  },
+  {
+    "description": "REFRIGERATEUR",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1836,
+          "y": 1167
+        },
+        {
+          "x": 1824,
+          "y": 1097
+        },
+        {
+          "x": 1838,
+          "y": 1095
+        },
+        {
+          "x": 1850,
+          "y": 1165
+        }
+      ]
+    }
+  },
+  {
+    "description": "GRIVER",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1831,
+          "y": 1130
+        },
+        {
+          "x": 1837,
+          "y": 1161
+        },
+        {
+          "x": 1821,
+          "y": 1164
+        },
+        {
+          "x": 1815,
+          "y": 1133
+        }
+      ]
+    }
+  },
+  {
+    "description": "N",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1842,
+          "y": 1194
+        },
+        {
+          "x": 1846,
+          "y": 1218
+        },
+        {
+          "x": 1831,
+          "y": 1220
+        },
+        {
+          "x": 1827,
+          "y": 1197
+        }
+      ]
+    }
+  },
+  {
+    "description": "LOBLAWS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1924,
+          "y": 1424
+        },
+        {
+          "x": 1914,
+          "y": 1378
+        },
+        {
+          "x": 1930,
+          "y": 1375
+        },
+        {
+          "x": 1940,
+          "y": 1421
+        }
+      ]
+    }
+  },
+  {
+    "description": "INC,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1914,
+          "y": 1373
+        },
+        {
+          "x": 1909,
+          "y": 1351
+        },
+        {
+          "x": 1924,
+          "y": 1348
+        },
+        {
+          "x": 1929,
+          "y": 1370
+        }
+      ]
+    }
+  },
+  {
+    "description": "TORONTO",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1908,
+          "y": 1350
+        },
+        {
+          "x": 1899,
+          "y": 1310
+        },
+        {
+          "x": 1915,
+          "y": 1307
+        },
+        {
+          "x": 1924,
+          "y": 1347
+        }
+      ]
+    }
+  },
+  {
+    "description": "MAT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1900,
+          "y": 1308
+        },
+        {
+          "x": 1896,
+          "y": 1289
+        },
+        {
+          "x": 1911,
+          "y": 1286
+        },
+        {
+          "x": 1915,
+          "y": 1305
+        }
+      ]
+    }
+  },
+  {
+    "description": "258,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1896,
+          "y": 1287
+        },
+        {
+          "x": 1892,
+          "y": 1268
+        },
+        {
+          "x": 1907,
+          "y": 1265
+        },
+        {
+          "x": 1911,
+          "y": 1284
+        }
+      ]
+    }
+  },
+  {
+    "description": "CANADA",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1891,
+          "y": 1267
+        },
+        {
+          "x": 1884,
+          "y": 1234
+        },
+        {
+          "x": 1900,
+          "y": 1230
+        },
+        {
+          "x": 1907,
+          "y": 1264
+        }
+      ]
+    }
+  },
+  {
+    "description": "O",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1881,
+          "y": 1220
+        },
+        {
+          "x": 1880,
+          "y": 1214
+        },
+        {
+          "x": 1894,
+          "y": 1211
+        },
+        {
+          "x": 1896,
+          "y": 1217
+        }
+      ]
+    }
+  },
+  {
+    "description": "2014",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1880,
+          "y": 1212
+        },
+        {
+          "x": 1877,
+          "y": 1198
+        },
+        {
+          "x": 1892,
+          "y": 1195
+        },
+        {
+          "x": 1895,
+          "y": 1209
+        }
+      ]
+    }
+  },
+  {
+    "description": "OTMMC",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1875,
+          "y": 1193
+        },
+        {
+          "x": 1867,
+          "y": 1156
+        },
+        {
+          "x": 1883,
+          "y": 1152
+        },
+        {
+          "x": 1891,
+          "y": 1190
+        }
+      ]
+    }
+  },
+  {
+    "description": "LOBLANS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1867,
+          "y": 1154
+        },
+        {
+          "x": 1859,
+          "y": 1115
+        },
+        {
+          "x": 1875,
+          "y": 1111
+        },
+        {
+          "x": 1884,
+          "y": 1150
+        }
+      ]
+    }
+  },
+  {
+    "description": "INC",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1858,
+          "y": 1112
+        },
+        {
+          "x": 1855,
+          "y": 1099
+        },
+        {
+          "x": 1870,
+          "y": 1096
+        },
+        {
+          "x": 1873,
+          "y": 1109
+        }
+      ]
+    }
+  },
+  {
+    "description": "INGREDIENTS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1943,
+          "y": 1420
+        },
+        {
+          "x": 1931,
+          "y": 1364
+        },
+        {
+          "x": 1946,
+          "y": 1361
+        },
+        {
+          "x": 1959,
+          "y": 1417
+        }
+      ]
+    }
+  },
+  {
+    "description": "PASTELRZED",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1929,
+          "y": 1360
+        },
+        {
+          "x": 1916,
+          "y": 1302
+        },
+        {
+          "x": 1932,
+          "y": 1299
+        },
+        {
+          "x": 1945,
+          "y": 1357
+        }
+      ]
+    }
+  },
+  {
+    "description": "MILK",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1917,
+          "y": 1300
+        },
+        {
+          "x": 1913,
+          "y": 1281
+        },
+        {
+          "x": 1929,
+          "y": 1278
+        },
+        {
+          "x": 1933,
+          "y": 1297
+        }
+      ]
+    }
+  },
+  {
+    "description": "MODFIED",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1912,
+          "y": 1277
+        },
+        {
+          "x": 1904,
+          "y": 1240
+        },
+        {
+          "x": 1921,
+          "y": 1236
+        },
+        {
+          "x": 1929,
+          "y": 1273
+        }
+      ]
+    }
+  },
+  {
+    "description": "MILK",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1903,
+          "y": 1237
+        },
+        {
+          "x": 1898,
+          "y": 1214
+        },
+        {
+          "x": 1914,
+          "y": 1210
+        },
+        {
+          "x": 1919,
+          "y": 1234
+        }
+      ]
+    }
+  },
+  {
+    "description": "INGREDENTS,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1897,
+          "y": 1211
+        },
+        {
+          "x": 1885,
+          "y": 1158
+        },
+        {
+          "x": 1901,
+          "y": 1155
+        },
+        {
+          "x": 1913,
+          "y": 1208
+        }
+      ]
+    }
+  },
+  {
+    "description": "PASTEURCED",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1885,
+          "y": 1156
+        },
+        {
+          "x": 1874,
+          "y": 1106
+        },
+        {
+          "x": 1890,
+          "y": 1103
+        },
+        {
+          "x": 1901,
+          "y": 1153
+        }
+      ]
+    }
+  },
+  {
+    "description": "CREAM,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1960,
+          "y": 1422
+        },
+        {
+          "x": 1952,
+          "y": 1387
+        },
+        {
+          "x": 1967,
+          "y": 1384
+        },
+        {
+          "x": 1975,
+          "y": 1419
+        }
+      ]
+    }
+  },
+  {
+    "description": "BACTERIAL",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1951,
+          "y": 1385
+        },
+        {
+          "x": 1941,
+          "y": 1343
+        },
+        {
+          "x": 1957,
+          "y": 1340
+        },
+        {
+          "x": 1967,
+          "y": 1381
+        }
+      ]
+    }
+  },
+  {
+    "description": "CLUTURE,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1941,
+          "y": 1340
+        },
+        {
+          "x": 1931,
+          "y": 1298
+        },
+        {
+          "x": 1947,
+          "y": 1295
+        },
+        {
+          "x": 1957,
+          "y": 1336
+        }
+      ]
+    }
+  },
+  {
+    "description": "SALT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1931,
+          "y": 1296
+        },
+        {
+          "x": 1927,
+          "y": 1278
+        },
+        {
+          "x": 1942,
+          "y": 1275
+        },
+        {
+          "x": 1946,
+          "y": 1293
+        }
+      ]
+    }
+  },
+  {
+    "description": "ANNATTO",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1926,
+          "y": 1276
+        },
+        {
+          "x": 1918,
+          "y": 1242
+        },
+        {
+          "x": 1934,
+          "y": 1238
+        },
+        {
+          "x": 1942,
+          "y": 1272
+        }
+      ]
+    }
+  },
+  {
+    "description": "MOROBAL",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1917,
+          "y": 1237
+        },
+        {
+          "x": 1907,
+          "y": 1192
+        },
+        {
+          "x": 1922,
+          "y": 1189
+        },
+        {
+          "x": 1933,
+          "y": 1233
+        }
+      ]
+    }
+  },
+  {
+    "description": "ENYME",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1907,
+          "y": 1191
+        },
+        {
+          "x": 1899,
+          "y": 1158
+        },
+        {
+          "x": 1914,
+          "y": 1155
+        },
+        {
+          "x": 1922,
+          "y": 1188
+        }
+      ]
+    }
+  },
+  {
+    "description": "INGREDIENTS:LAIT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1977,
+          "y": 1419
+        },
+        {
+          "x": 1958,
+          "y": 1337
+        },
+        {
+          "x": 1974,
+          "y": 1334
+        },
+        {
+          "x": 1993,
+          "y": 1415
+        }
+      ]
+    }
+  },
+  {
+    "description": "PASTELIRISE,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1958,
+          "y": 1335
+        },
+        {
+          "x": 1946,
+          "y": 1283
+        },
+        {
+          "x": 1962,
+          "y": 1280
+        },
+        {
+          "x": 1974,
+          "y": 1331
+        }
+      ]
+    }
+  },
+  {
+    "description": "SUBSTANCES",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1945,
+          "y": 1280
+        },
+        {
+          "x": 1933,
+          "y": 1228
+        },
+        {
+          "x": 1949,
+          "y": 1225
+        },
+        {
+          "x": 1961,
+          "y": 1276
+        }
+      ]
+    }
+  },
+  {
+    "description": "LAITERES",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1934,
+          "y": 1226
+        },
+        {
+          "x": 1926,
+          "y": 1189
+        },
+        {
+          "x": 1941,
+          "y": 1185
+        },
+        {
+          "x": 1950,
+          "y": 1222
+        }
+      ]
+    }
+  },
+  {
+    "description": "MODIFIES,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1924,
+          "y": 1187
+        },
+        {
+          "x": 1914,
+          "y": 1142
+        },
+        {
+          "x": 1929,
+          "y": 1139
+        },
+        {
+          "x": 1940,
+          "y": 1183
+        }
+      ]
+    }
+  },
+  {
+    "description": "CREME",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1913,
+          "y": 1140
+        },
+        {
+          "x": 1907,
+          "y": 1114
+        },
+        {
+          "x": 1923,
+          "y": 1110
+        },
+        {
+          "x": 1929,
+          "y": 1136
+        }
+      ]
+    }
+  },
+  {
+    "description": "PASTEURISE,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1994,
+          "y": 1423
+        },
+        {
+          "x": 1979,
+          "y": 1360
+        },
+        {
+          "x": 1995,
+          "y": 1356
+        },
+        {
+          "x": 2010,
+          "y": 1419
+        }
+      ]
+    }
+  },
+  {
+    "description": "CULTURE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1979,
+          "y": 1358
+        },
+        {
+          "x": 1971,
+          "y": 1324
+        },
+        {
+          "x": 1987,
+          "y": 1320
+        },
+        {
+          "x": 1995,
+          "y": 1354
+        }
+      ]
+    }
+  },
+  {
+    "description": "BACTERENE,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1970,
+          "y": 1319
+        },
+        {
+          "x": 1957,
+          "y": 1264
+        },
+        {
+          "x": 1973,
+          "y": 1261
+        },
+        {
+          "x": 1986,
+          "y": 1315
+        }
+      ]
+    }
+  },
+  {
+    "description": "SEL,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1957,
+          "y": 1261
+        },
+        {
+          "x": 1953,
+          "y": 1243
+        },
+        {
+          "x": 1968,
+          "y": 1240
+        },
+        {
+          "x": 1972,
+          "y": 1258
+        }
+      ]
+    }
+  },
+  {
+    "description": "ROCOL,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1952,
+          "y": 1241
+        },
+        {
+          "x": 1945,
+          "y": 1210
+        },
+        {
+          "x": 1960,
+          "y": 1206
+        },
+        {
+          "x": 1968,
+          "y": 1237
+        }
+      ]
+    }
+  },
+  {
+    "description": "ENZYME",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1944,
+          "y": 1208
+        },
+        {
+          "x": 1937,
+          "y": 1179
+        },
+        {
+          "x": 1953,
+          "y": 1175
+        },
+        {
+          "x": 1960,
+          "y": 1204
+        }
+      ]
+    }
+  },
+  {
+    "description": "MICROBEN",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1936,
+          "y": 1176
+        },
+        {
+          "x": 1926,
+          "y": 1134
+        },
+        {
+          "x": 1943,
+          "y": 1130
+        },
+        {
+          "x": 1953,
+          "y": 1172
+        }
+      ]
+    }
+  },
+  {
+    "description": "60383",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1908,
+          "y": 1067
+        },
+        {
+          "x": 1899,
+          "y": 1018
+        },
+        {
+          "x": 1918,
+          "y": 1014
+        },
+        {
+          "x": 1927,
+          "y": 1064
+        }
+      ]
+    }
+  },
+  {
+    "description": "06135",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1898,
+          "y": 1009
+        },
+        {
+          "x": 1890,
+          "y": 962
+        },
+        {
+          "x": 1907,
+          "y": 959
+        },
+        {
+          "x": 1916,
+          "y": 1006
+        }
+      ]
+    }
+  }
+]

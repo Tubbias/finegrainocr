@@ -1,0 +1,716 @@
+[
+  {
+    "locale": "en",
+    "description": "Pailiti Chies\nWHOLE MUSHROOMS\nCHAMPIGNONS ENTIERS\nBLANCS\nMILD AND DELICATE\nDOUX ET DELICATS\n454 g\nPRODUCT OF CANADA\nPRODUIT DU CANADA\nW SHYT\nPiOYO\nW S 1 RIO\nis sAr\n",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1576,
+          "y": 814
+        },
+        {
+          "x": 2072,
+          "y": 814
+        },
+        {
+          "x": 2072,
+          "y": 1114
+        },
+        {
+          "x": 1576,
+          "y": 1114
+        }
+      ]
+    }
+  },
+  {
+    "description": "Pailiti",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1584,
+          "y": 1065
+        },
+        {
+          "x": 1576,
+          "y": 962
+        },
+        {
+          "x": 1620,
+          "y": 959
+        },
+        {
+          "x": 1628,
+          "y": 1062
+        }
+      ]
+    }
+  },
+  {
+    "description": "Chies",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1584,
+          "y": 955
+        },
+        {
+          "x": 1580,
+          "y": 895
+        },
+        {
+          "x": 1616,
+          "y": 892
+        },
+        {
+          "x": 1621,
+          "y": 952
+        }
+      ]
+    }
+  },
+  {
+    "description": "WHOLE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1780,
+          "y": 994
+        },
+        {
+          "x": 1770,
+          "y": 954
+        },
+        {
+          "x": 1790,
+          "y": 949
+        },
+        {
+          "x": 1799,
+          "y": 989
+        }
+      ]
+    }
+  },
+  {
+    "description": "MUSHROOMS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1769,
+          "y": 949
+        },
+        {
+          "x": 1752,
+          "y": 876
+        },
+        {
+          "x": 1772,
+          "y": 871
+        },
+        {
+          "x": 1789,
+          "y": 944
+        }
+      ]
+    }
+  },
+  {
+    "description": "CHAMPIGNONS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1804,
+          "y": 1005
+        },
+        {
+          "x": 1783,
+          "y": 919
+        },
+        {
+          "x": 1801,
+          "y": 914
+        },
+        {
+          "x": 1822,
+          "y": 1000
+        }
+      ]
+    }
+  },
+  {
+    "description": "ENTIERS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1781,
+          "y": 913
+        },
+        {
+          "x": 1770,
+          "y": 868
+        },
+        {
+          "x": 1789,
+          "y": 864
+        },
+        {
+          "x": 1800,
+          "y": 908
+        }
+      ]
+    }
+  },
+  {
+    "description": "BLANCS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1826,
+          "y": 1015
+        },
+        {
+          "x": 1795,
+          "y": 864
+        },
+        {
+          "x": 1836,
+          "y": 856
+        },
+        {
+          "x": 1867,
+          "y": 1007
+        }
+      ]
+    }
+  },
+  {
+    "description": "MILD",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1876,
+          "y": 991
+        },
+        {
+          "x": 1872,
+          "y": 964
+        },
+        {
+          "x": 1883,
+          "y": 963
+        },
+        {
+          "x": 1887,
+          "y": 989
+        }
+      ]
+    }
+  },
+  {
+    "description": "AND",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1871,
+          "y": 963
+        },
+        {
+          "x": 1867,
+          "y": 939
+        },
+        {
+          "x": 1879,
+          "y": 937
+        },
+        {
+          "x": 1883,
+          "y": 961
+        }
+      ]
+    }
+  },
+  {
+    "description": "DELICATE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1866,
+          "y": 936
+        },
+        {
+          "x": 1859,
+          "y": 890
+        },
+        {
+          "x": 1870,
+          "y": 888
+        },
+        {
+          "x": 1878,
+          "y": 934
+        }
+      ]
+    }
+  },
+  {
+    "description": "DOUX",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1890,
+          "y": 989
+        },
+        {
+          "x": 1885,
+          "y": 959
+        },
+        {
+          "x": 1901,
+          "y": 957
+        },
+        {
+          "x": 1906,
+          "y": 986
+        }
+      ]
+    }
+  },
+  {
+    "description": "ET",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1885,
+          "y": 957
+        },
+        {
+          "x": 1883,
+          "y": 946
+        },
+        {
+          "x": 1899,
+          "y": 944
+        },
+        {
+          "x": 1901,
+          "y": 954
+        }
+      ]
+    }
+  },
+  {
+    "description": "DELICATS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1882,
+          "y": 941
+        },
+        {
+          "x": 1874,
+          "y": 892
+        },
+        {
+          "x": 1892,
+          "y": 889
+        },
+        {
+          "x": 1900,
+          "y": 938
+        }
+      ]
+    }
+  },
+  {
+    "description": "454",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1990,
+          "y": 1115
+        },
+        {
+          "x": 1983,
+          "y": 1047
+        },
+        {
+          "x": 2034,
+          "y": 1042
+        },
+        {
+          "x": 2041,
+          "y": 1110
+        }
+      ]
+    }
+  },
+  {
+    "description": "g",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1983,
+          "y": 1045
+        },
+        {
+          "x": 1981,
+          "y": 1024
+        },
+        {
+          "x": 2033,
+          "y": 1019
+        },
+        {
+          "x": 2035,
+          "y": 1040
+        }
+      ]
+    }
+  },
+  {
+    "description": "PRODUCT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1967,
+          "y": 966
+        },
+        {
+          "x": 1959,
+          "y": 896
+        },
+        {
+          "x": 1980,
+          "y": 894
+        },
+        {
+          "x": 1988,
+          "y": 964
+        }
+      ]
+    }
+  },
+  {
+    "description": "OF",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1959,
+          "y": 895
+        },
+        {
+          "x": 1957,
+          "y": 874
+        },
+        {
+          "x": 1976,
+          "y": 872
+        },
+        {
+          "x": 1978,
+          "y": 893
+        }
+      ]
+    }
+  },
+  {
+    "description": "CANADA",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1958,
+          "y": 872
+        },
+        {
+          "x": 1952,
+          "y": 817
+        },
+        {
+          "x": 1971,
+          "y": 815
+        },
+        {
+          "x": 1977,
+          "y": 870
+        }
+      ]
+    }
+  },
+  {
+    "description": "PRODUIT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1989,
+          "y": 973
+        },
+        {
+          "x": 1980,
+          "y": 906
+        },
+        {
+          "x": 2003,
+          "y": 902
+        },
+        {
+          "x": 2013,
+          "y": 970
+        }
+      ]
+    }
+  },
+  {
+    "description": "DU",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1980,
+          "y": 904
+        },
+        {
+          "x": 1977,
+          "y": 882
+        },
+        {
+          "x": 2001,
+          "y": 879
+        },
+        {
+          "x": 2004,
+          "y": 901
+        }
+      ]
+    }
+  },
+  {
+    "description": "CANADA",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1976,
+          "y": 880
+        },
+        {
+          "x": 1967,
+          "y": 819
+        },
+        {
+          "x": 1991,
+          "y": 815
+        },
+        {
+          "x": 2000,
+          "y": 877
+        }
+      ]
+    }
+  },
+  {
+    "description": "W",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2019,
+          "y": 874
+        },
+        {
+          "x": 2021,
+          "y": 886
+        },
+        {
+          "x": 2009,
+          "y": 888
+        },
+        {
+          "x": 2007,
+          "y": 876
+        }
+      ]
+    }
+  },
+  {
+    "description": "SHYT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2021,
+          "y": 889
+        },
+        {
+          "x": 2027,
+          "y": 932
+        },
+        {
+          "x": 2015,
+          "y": 933
+        },
+        {
+          "x": 2009,
+          "y": 891
+        }
+      ]
+    }
+  },
+  {
+    "description": "PiOYO",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2042,
+          "y": 865
+        },
+        {
+          "x": 2049,
+          "y": 915
+        },
+        {
+          "x": 2036,
+          "y": 917
+        },
+        {
+          "x": 2029,
+          "y": 867
+        }
+      ]
+    }
+  },
+  {
+    "description": "W",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2045,
+          "y": 835
+        },
+        {
+          "x": 2050,
+          "y": 859
+        },
+        {
+          "x": 2038,
+          "y": 861
+        },
+        {
+          "x": 2033,
+          "y": 837
+        }
+      ]
+    }
+  },
+  {
+    "description": "S",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2050,
+          "y": 861
+        },
+        {
+          "x": 2051,
+          "y": 867
+        },
+        {
+          "x": 2039,
+          "y": 869
+        },
+        {
+          "x": 2038,
+          "y": 863
+        }
+      ]
+    }
+  },
+  {
+    "description": "1",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2056,
+          "y": 893
+        },
+        {
+          "x": 2057,
+          "y": 899
+        },
+        {
+          "x": 2045,
+          "y": 901
+        },
+        {
+          "x": 2044,
+          "y": 895
+        }
+      ]
+    }
+  },
+  {
+    "description": "RIO",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2063,
+          "y": 925
+        },
+        {
+          "x": 2065,
+          "y": 937
+        },
+        {
+          "x": 2054,
+          "y": 939
+        },
+        {
+          "x": 2051,
+          "y": 927
+        }
+      ]
+    }
+  },
+  {
+    "description": "is",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2064,
+          "y": 860
+        },
+        {
+          "x": 2069,
+          "y": 883
+        },
+        {
+          "x": 2057,
+          "y": 886
+        },
+        {
+          "x": 2051,
+          "y": 863
+        }
+      ]
+    }
+  },
+  {
+    "description": "sAr",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2070,
+          "y": 886
+        },
+        {
+          "x": 2073,
+          "y": 900
+        },
+        {
+          "x": 2060,
+          "y": 903
+        },
+        {
+          "x": 2056,
+          "y": 889
+        }
+      ]
+    }
+  }
+]

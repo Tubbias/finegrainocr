@@ -1,0 +1,509 @@
+[
+  {
+    "locale": "fr",
+    "description": "DE\nSOURCE\nPROTEINES\nCALCIUM\nMelleur avant/Best before\nADDITIONN\u00c9 DE VITAMINES A ET D\nlait 2%\npartiellement\n\u00e9cr\u00e9m\u00e9\nO1NYANO\nTerre nourriciere\n1L\n",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 784,
+          "y": 826
+        },
+        {
+          "x": 2119,
+          "y": 826
+        },
+        {
+          "x": 2119,
+          "y": 1372
+        },
+        {
+          "x": 784,
+          "y": 1372
+        }
+      ]
+    }
+  },
+  {
+    "description": "DE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1968,
+          "y": 1034
+        },
+        {
+          "x": 1997,
+          "y": 1030
+        },
+        {
+          "x": 2000,
+          "y": 1050
+        },
+        {
+          "x": 1971,
+          "y": 1055
+        }
+      ]
+    }
+  },
+  {
+    "description": "SOURCE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1922,
+          "y": 1061
+        },
+        {
+          "x": 1966,
+          "y": 1026
+        },
+        {
+          "x": 1982,
+          "y": 1047
+        },
+        {
+          "x": 1938,
+          "y": 1081
+        }
+      ]
+    }
+  },
+  {
+    "description": "PROTEINES",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1995,
+          "y": 1159
+        },
+        {
+          "x": 2104,
+          "y": 1115
+        },
+        {
+          "x": 2118,
+          "y": 1149
+        },
+        {
+          "x": 2009,
+          "y": 1193
+        }
+      ]
+    }
+  },
+  {
+    "description": "CALCIUM",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2094,
+          "y": 1114
+        },
+        {
+          "x": 2010,
+          "y": 1053
+        },
+        {
+          "x": 2032,
+          "y": 1023
+        },
+        {
+          "x": 2116,
+          "y": 1084
+        }
+      ]
+    }
+  },
+  {
+    "description": "Melleur",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 784,
+          "y": 1057
+        },
+        {
+          "x": 814,
+          "y": 1003
+        },
+        {
+          "x": 829,
+          "y": 1011
+        },
+        {
+          "x": 799,
+          "y": 1065
+        }
+      ]
+    }
+  },
+  {
+    "description": "avant/Best",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 815,
+          "y": 999
+        },
+        {
+          "x": 859,
+          "y": 918
+        },
+        {
+          "x": 875,
+          "y": 927
+        },
+        {
+          "x": 831,
+          "y": 1008
+        }
+      ]
+    }
+  },
+  {
+    "description": "before",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 861,
+          "y": 917
+        },
+        {
+          "x": 884,
+          "y": 875
+        },
+        {
+          "x": 900,
+          "y": 884
+        },
+        {
+          "x": 877,
+          "y": 926
+        }
+      ]
+    }
+  },
+  {
+    "description": "ADDITIONN\u00c9",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1082,
+          "y": 1103
+        },
+        {
+          "x": 1135,
+          "y": 991
+        },
+        {
+          "x": 1152,
+          "y": 999
+        },
+        {
+          "x": 1099,
+          "y": 1111
+        }
+      ]
+    }
+  },
+  {
+    "description": "DE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1135,
+          "y": 979
+        },
+        {
+          "x": 1144,
+          "y": 960
+        },
+        {
+          "x": 1168,
+          "y": 971
+        },
+        {
+          "x": 1159,
+          "y": 990
+        }
+      ]
+    }
+  },
+  {
+    "description": "VITAMINES",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1144,
+          "y": 958
+        },
+        {
+          "x": 1185,
+          "y": 871
+        },
+        {
+          "x": 1210,
+          "y": 883
+        },
+        {
+          "x": 1169,
+          "y": 970
+        }
+      ]
+    }
+  },
+  {
+    "description": "A",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1197,
+          "y": 868
+        },
+        {
+          "x": 1200,
+          "y": 861
+        },
+        {
+          "x": 1211,
+          "y": 866
+        },
+        {
+          "x": 1208,
+          "y": 873
+        }
+      ]
+    }
+  },
+  {
+    "description": "ET",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1203,
+          "y": 854
+        },
+        {
+          "x": 1209,
+          "y": 842
+        },
+        {
+          "x": 1220,
+          "y": 848
+        },
+        {
+          "x": 1215,
+          "y": 860
+        }
+      ]
+    }
+  },
+  {
+    "description": "D",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1213,
+          "y": 835
+        },
+        {
+          "x": 1217,
+          "y": 827
+        },
+        {
+          "x": 1229,
+          "y": 832
+        },
+        {
+          "x": 1225,
+          "y": 841
+        }
+      ]
+    }
+  },
+  {
+    "description": "lait",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1172,
+          "y": 1093
+        },
+        {
+          "x": 1219,
+          "y": 971
+        },
+        {
+          "x": 1300,
+          "y": 1002
+        },
+        {
+          "x": 1252,
+          "y": 1124
+        }
+      ]
+    }
+  },
+  {
+    "description": "2%",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1238,
+          "y": 945
+        },
+        {
+          "x": 1272,
+          "y": 858
+        },
+        {
+          "x": 1345,
+          "y": 887
+        },
+        {
+          "x": 1312,
+          "y": 974
+        }
+      ]
+    }
+  },
+  {
+    "description": "partiellement",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1271,
+          "y": 1121
+        },
+        {
+          "x": 1342,
+          "y": 941
+        },
+        {
+          "x": 1375,
+          "y": 955
+        },
+        {
+          "x": 1304,
+          "y": 1134
+        }
+      ]
+    }
+  },
+  {
+    "description": "\u00e9cr\u00e9m\u00e9",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1313,
+          "y": 1131
+        },
+        {
+          "x": 1354,
+          "y": 1019
+        },
+        {
+          "x": 1384,
+          "y": 1030
+        },
+        {
+          "x": 1343,
+          "y": 1142
+        }
+      ]
+    }
+  },
+  {
+    "description": "O1NYANO",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1560,
+          "y": 1129
+        },
+        {
+          "x": 1539,
+          "y": 1191
+        },
+        {
+          "x": 1526,
+          "y": 1187
+        },
+        {
+          "x": 1548,
+          "y": 1125
+        }
+      ]
+    }
+  },
+  {
+    "description": "Terre",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1529,
+          "y": 1231
+        },
+        {
+          "x": 1544,
+          "y": 1188
+        },
+        {
+          "x": 1563,
+          "y": 1195
+        },
+        {
+          "x": 1548,
+          "y": 1237
+        }
+      ]
+    }
+  },
+  {
+    "description": "nourriciere",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1546,
+          "y": 1181
+        },
+        {
+          "x": 1576,
+          "y": 1092
+        },
+        {
+          "x": 1594,
+          "y": 1098
+        },
+        {
+          "x": 1564,
+          "y": 1187
+        }
+      ]
+    }
+  },
+  {
+    "description": "1L",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 2114,
+          "y": 1304
+        },
+        {
+          "x": 2104,
+          "y": 1372
+        },
+        {
+          "x": 2027,
+          "y": 1361
+        },
+        {
+          "x": 2037,
+          "y": 1293
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,2119 @@
+[
+  {
+    "locale": "en",
+    "description": "SMOKED\nCHICKEN BREAST\nNutrition Facts\nPOITRINE DE POULET Valeur nutritive\nFUM\u00c9E\nos os\npour 4 tranches (50 g\nINGREDIENTS OHCKEREAST\nATER, DEXTROSE SALT\nPOTASSUM LACTATE RAVOUR\nCONTAINS MODFED C Calories /Calories 45\nSPICES SOOM POSNE\nSPICES, CARRAGENA ASCOIC\nFat/Lipides 05g\nBACETATE SMOERANOUR\ns NOOS O\nSaturates/satunes 02g\nNGREDIENTS:POTNE DE POULET\nEAL DEXTROSE SEL LACTATE DE\nPOTASSM SR CONTENT\nAMDONDE MA MOOFE CES\nPHOSPHATE DE SOOUK P\nCARBAENNE ACDE ASCOR\nNTRITE DE SOO AEE\nSOOUM SERDE FUME FUM\nS N NS\nestrol 15\nSodium/Sodium 48 mg\nGlucides 19\nSD NO\n50\nRURM\n",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1430,
+          "y": 452
+        },
+        {
+          "x": 1764,
+          "y": 452
+        },
+        {
+          "x": 1764,
+          "y": 721
+        },
+        {
+          "x": 1430,
+          "y": 721
+        }
+      ]
+    }
+  },
+  {
+    "description": "SMOKED",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1450,
+          "y": 692
+        },
+        {
+          "x": 1445,
+          "y": 639
+        },
+        {
+          "x": 1458,
+          "y": 638
+        },
+        {
+          "x": 1463,
+          "y": 691
+        }
+      ]
+    }
+  },
+  {
+    "description": "CHICKEN",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1465,
+          "y": 706
+        },
+        {
+          "x": 1460,
+          "y": 658
+        },
+        {
+          "x": 1476,
+          "y": 657
+        },
+        {
+          "x": 1481,
+          "y": 704
+        }
+      ]
+    }
+  },
+  {
+    "description": "BREAST",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1460,
+          "y": 656
+        },
+        {
+          "x": 1456,
+          "y": 622
+        },
+        {
+          "x": 1472,
+          "y": 620
+        },
+        {
+          "x": 1476,
+          "y": 654
+        }
+      ]
+    }
+  },
+  {
+    "description": "Nutrition",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1440,
+          "y": 599
+        },
+        {
+          "x": 1433,
+          "y": 539
+        },
+        {
+          "x": 1449,
+          "y": 538
+        },
+        {
+          "x": 1456,
+          "y": 597
+        }
+      ]
+    }
+  },
+  {
+    "description": "Facts",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1434,
+          "y": 536
+        },
+        {
+          "x": 1430,
+          "y": 502
+        },
+        {
+          "x": 1447,
+          "y": 500
+        },
+        {
+          "x": 1451,
+          "y": 534
+        }
+      ]
+    }
+  },
+  {
+    "description": "POITRINE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1487,
+          "y": 713
+        },
+        {
+          "x": 1479,
+          "y": 666
+        },
+        {
+          "x": 1494,
+          "y": 663
+        },
+        {
+          "x": 1502,
+          "y": 710
+        }
+      ]
+    }
+  },
+  {
+    "description": "DE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1482,
+          "y": 662
+        },
+        {
+          "x": 1480,
+          "y": 649
+        },
+        {
+          "x": 1494,
+          "y": 647
+        },
+        {
+          "x": 1496,
+          "y": 660
+        }
+      ]
+    }
+  },
+  {
+    "description": "POULET",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1480,
+          "y": 646
+        },
+        {
+          "x": 1473,
+          "y": 608
+        },
+        {
+          "x": 1485,
+          "y": 606
+        },
+        {
+          "x": 1492,
+          "y": 644
+        }
+      ]
+    }
+  },
+  {
+    "description": "Valeur",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1466,
+          "y": 591
+        },
+        {
+          "x": 1459,
+          "y": 552
+        },
+        {
+          "x": 1478,
+          "y": 548
+        },
+        {
+          "x": 1485,
+          "y": 588
+        }
+      ]
+    }
+  },
+  {
+    "description": "nutritive",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1458,
+          "y": 546
+        },
+        {
+          "x": 1449,
+          "y": 495
+        },
+        {
+          "x": 1467,
+          "y": 492
+        },
+        {
+          "x": 1476,
+          "y": 543
+        }
+      ]
+    }
+  },
+  {
+    "description": "FUM\u00c9E",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1497,
+          "y": 676
+        },
+        {
+          "x": 1491,
+          "y": 635
+        },
+        {
+          "x": 1507,
+          "y": 633
+        },
+        {
+          "x": 1513,
+          "y": 674
+        }
+      ]
+    }
+  },
+  {
+    "description": "os",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1491,
+          "y": 527
+        },
+        {
+          "x": 1493,
+          "y": 545
+        },
+        {
+          "x": 1479,
+          "y": 547
+        },
+        {
+          "x": 1476,
+          "y": 529
+        }
+      ]
+    }
+  },
+  {
+    "description": "os",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1494,
+          "y": 550
+        },
+        {
+          "x": 1497,
+          "y": 569
+        },
+        {
+          "x": 1482,
+          "y": 571
+        },
+        {
+          "x": 1479,
+          "y": 552
+        }
+      ]
+    }
+  },
+  {
+    "description": "pour",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1505,
+          "y": 596
+        },
+        {
+          "x": 1501,
+          "y": 574
+        },
+        {
+          "x": 1513,
+          "y": 572
+        },
+        {
+          "x": 1517,
+          "y": 594
+        }
+      ]
+    }
+  },
+  {
+    "description": "4",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1500,
+          "y": 573
+        },
+        {
+          "x": 1499,
+          "y": 569
+        },
+        {
+          "x": 1507,
+          "y": 568
+        },
+        {
+          "x": 1508,
+          "y": 572
+        }
+      ]
+    }
+  },
+  {
+    "description": "tranches",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1500,
+          "y": 567
+        },
+        {
+          "x": 1495,
+          "y": 536
+        },
+        {
+          "x": 1505,
+          "y": 535
+        },
+        {
+          "x": 1510,
+          "y": 565
+        }
+      ]
+    }
+  },
+  {
+    "description": "(50",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1494,
+          "y": 533
+        },
+        {
+          "x": 1492,
+          "y": 521
+        },
+        {
+          "x": 1502,
+          "y": 520
+        },
+        {
+          "x": 1504,
+          "y": 531
+        }
+      ]
+    }
+  },
+  {
+    "description": "g",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1494,
+          "y": 520
+        },
+        {
+          "x": 1493,
+          "y": 513
+        },
+        {
+          "x": 1503,
+          "y": 511
+        },
+        {
+          "x": 1504,
+          "y": 518
+        }
+      ]
+    }
+  },
+  {
+    "description": "INGREDIENTS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1522,
+          "y": 712
+        },
+        {
+          "x": 1517,
+          "y": 671
+        },
+        {
+          "x": 1530,
+          "y": 670
+        },
+        {
+          "x": 1535,
+          "y": 710
+        }
+      ]
+    }
+  },
+  {
+    "description": "OHCKEREAST",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1518,
+          "y": 666
+        },
+        {
+          "x": 1512,
+          "y": 615
+        },
+        {
+          "x": 1525,
+          "y": 614
+        },
+        {
+          "x": 1531,
+          "y": 664
+        }
+      ]
+    }
+  },
+  {
+    "description": "ATER,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1536,
+          "y": 710
+        },
+        {
+          "x": 1533,
+          "y": 688
+        },
+        {
+          "x": 1545,
+          "y": 687
+        },
+        {
+          "x": 1548,
+          "y": 709
+        }
+      ]
+    }
+  },
+  {
+    "description": "DEXTROSE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1532,
+          "y": 686
+        },
+        {
+          "x": 1528,
+          "y": 654
+        },
+        {
+          "x": 1541,
+          "y": 653
+        },
+        {
+          "x": 1545,
+          "y": 684
+        }
+      ]
+    }
+  },
+  {
+    "description": "SALT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1528,
+          "y": 651
+        },
+        {
+          "x": 1526,
+          "y": 636
+        },
+        {
+          "x": 1538,
+          "y": 635
+        },
+        {
+          "x": 1540,
+          "y": 650
+        }
+      ]
+    }
+  },
+  {
+    "description": "POTASSUM",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1547,
+          "y": 716
+        },
+        {
+          "x": 1542,
+          "y": 676
+        },
+        {
+          "x": 1554,
+          "y": 675
+        },
+        {
+          "x": 1559,
+          "y": 714
+        }
+      ]
+    }
+  },
+  {
+    "description": "LACTATE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1542,
+          "y": 674
+        },
+        {
+          "x": 1539,
+          "y": 649
+        },
+        {
+          "x": 1551,
+          "y": 648
+        },
+        {
+          "x": 1554,
+          "y": 672
+        }
+      ]
+    }
+  },
+  {
+    "description": "RAVOUR",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1536,
+          "y": 641
+        },
+        {
+          "x": 1533,
+          "y": 619
+        },
+        {
+          "x": 1546,
+          "y": 617
+        },
+        {
+          "x": 1549,
+          "y": 639
+        }
+      ]
+    }
+  },
+  {
+    "description": "CONTAINS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1556,
+          "y": 710
+        },
+        {
+          "x": 1554,
+          "y": 680
+        },
+        {
+          "x": 1567,
+          "y": 679
+        },
+        {
+          "x": 1569,
+          "y": 709
+        }
+      ]
+    }
+  },
+  {
+    "description": "MODFED",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1554,
+          "y": 677
+        },
+        {
+          "x": 1552,
+          "y": 647
+        },
+        {
+          "x": 1565,
+          "y": 646
+        },
+        {
+          "x": 1567,
+          "y": 676
+        }
+      ]
+    }
+  },
+  {
+    "description": "C",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1551,
+          "y": 645
+        },
+        {
+          "x": 1551,
+          "y": 641
+        },
+        {
+          "x": 1563,
+          "y": 640
+        },
+        {
+          "x": 1563,
+          "y": 644
+        }
+      ]
+    }
+  },
+  {
+    "description": "Calories",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1547,
+          "y": 591
+        },
+        {
+          "x": 1545,
+          "y": 560
+        },
+        {
+          "x": 1558,
+          "y": 559
+        },
+        {
+          "x": 1560,
+          "y": 590
+        }
+      ]
+    }
+  },
+  {
+    "description": "/Calories",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1544,
+          "y": 558
+        },
+        {
+          "x": 1541,
+          "y": 517
+        },
+        {
+          "x": 1554,
+          "y": 516
+        },
+        {
+          "x": 1557,
+          "y": 557
+        }
+      ]
+    }
+  },
+  {
+    "description": "45",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1541,
+          "y": 515
+        },
+        {
+          "x": 1540,
+          "y": 507
+        },
+        {
+          "x": 1552,
+          "y": 506
+        },
+        {
+          "x": 1553,
+          "y": 514
+        }
+      ]
+    }
+  },
+  {
+    "description": "SPICES",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1572,
+          "y": 712
+        },
+        {
+          "x": 1569,
+          "y": 690
+        },
+        {
+          "x": 1580,
+          "y": 689
+        },
+        {
+          "x": 1583,
+          "y": 710
+        }
+      ]
+    }
+  },
+  {
+    "description": "SOOM",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1568,
+          "y": 685
+        },
+        {
+          "x": 1564,
+          "y": 658
+        },
+        {
+          "x": 1575,
+          "y": 657
+        },
+        {
+          "x": 1579,
+          "y": 683
+        }
+      ]
+    }
+  },
+  {
+    "description": "POSNE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1564,
+          "y": 657
+        },
+        {
+          "x": 1559,
+          "y": 621
+        },
+        {
+          "x": 1570,
+          "y": 620
+        },
+        {
+          "x": 1575,
+          "y": 655
+        }
+      ]
+    }
+  },
+  {
+    "description": "SPICES,",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1583,
+          "y": 713
+        },
+        {
+          "x": 1579,
+          "y": 687
+        },
+        {
+          "x": 1590,
+          "y": 686
+        },
+        {
+          "x": 1594,
+          "y": 712
+        }
+      ]
+    }
+  },
+  {
+    "description": "CARRAGENA",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1580,
+          "y": 685
+        },
+        {
+          "x": 1575,
+          "y": 645
+        },
+        {
+          "x": 1585,
+          "y": 644
+        },
+        {
+          "x": 1591,
+          "y": 684
+        }
+      ]
+    }
+  },
+  {
+    "description": "ASCOIC",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1572,
+          "y": 638
+        },
+        {
+          "x": 1568,
+          "y": 612
+        },
+        {
+          "x": 1580,
+          "y": 611
+        },
+        {
+          "x": 1584,
+          "y": 636
+        }
+      ]
+    }
+  },
+  {
+    "description": "Fat/Lipides",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1572,
+          "y": 595
+        },
+        {
+          "x": 1565,
+          "y": 544
+        },
+        {
+          "x": 1577,
+          "y": 542
+        },
+        {
+          "x": 1584,
+          "y": 593
+        }
+      ]
+    }
+  },
+  {
+    "description": "05g",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1565,
+          "y": 539
+        },
+        {
+          "x": 1562,
+          "y": 521
+        },
+        {
+          "x": 1573,
+          "y": 520
+        },
+        {
+          "x": 1576,
+          "y": 537
+        }
+      ]
+    }
+  },
+  {
+    "description": "BACETATE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1605,
+          "y": 713
+        },
+        {
+          "x": 1599,
+          "y": 677
+        },
+        {
+          "x": 1612,
+          "y": 675
+        },
+        {
+          "x": 1618,
+          "y": 711
+        }
+      ]
+    }
+  },
+  {
+    "description": "SMOERANOUR",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1600,
+          "y": 675
+        },
+        {
+          "x": 1592,
+          "y": 627
+        },
+        {
+          "x": 1604,
+          "y": 625
+        },
+        {
+          "x": 1612,
+          "y": 673
+        }
+      ]
+    }
+  },
+  {
+    "description": "s",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1593,
+          "y": 629
+        },
+        {
+          "x": 1595,
+          "y": 644
+        },
+        {
+          "x": 1584,
+          "y": 646
+        },
+        {
+          "x": 1582,
+          "y": 631
+        }
+      ]
+    }
+  },
+  {
+    "description": "NOOS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1596,
+          "y": 646
+        },
+        {
+          "x": 1604,
+          "y": 697
+        },
+        {
+          "x": 1593,
+          "y": 699
+        },
+        {
+          "x": 1585,
+          "y": 648
+        }
+      ]
+    }
+  },
+  {
+    "description": "O",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1605,
+          "y": 701
+        },
+        {
+          "x": 1607,
+          "y": 711
+        },
+        {
+          "x": 1596,
+          "y": 713
+        },
+        {
+          "x": 1594,
+          "y": 703
+        }
+      ]
+    }
+  },
+  {
+    "description": "Saturates/satunes",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1589,
+          "y": 588
+        },
+        {
+          "x": 1578,
+          "y": 516
+        },
+        {
+          "x": 1592,
+          "y": 514
+        },
+        {
+          "x": 1603,
+          "y": 586
+        }
+      ]
+    }
+  },
+  {
+    "description": "02g",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1578,
+          "y": 514
+        },
+        {
+          "x": 1575,
+          "y": 495
+        },
+        {
+          "x": 1588,
+          "y": 493
+        },
+        {
+          "x": 1591,
+          "y": 512
+        }
+      ]
+    }
+  },
+  {
+    "description": "NGREDIENTS:POTNE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1632,
+          "y": 713
+        },
+        {
+          "x": 1619,
+          "y": 640
+        },
+        {
+          "x": 1632,
+          "y": 638
+        },
+        {
+          "x": 1645,
+          "y": 711
+        }
+      ]
+    }
+  },
+  {
+    "description": "DE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1619,
+          "y": 637
+        },
+        {
+          "x": 1618,
+          "y": 629
+        },
+        {
+          "x": 1629,
+          "y": 627
+        },
+        {
+          "x": 1631,
+          "y": 635
+        }
+      ]
+    }
+  },
+  {
+    "description": "POULET",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1617,
+          "y": 628
+        },
+        {
+          "x": 1614,
+          "y": 609
+        },
+        {
+          "x": 1626,
+          "y": 607
+        },
+        {
+          "x": 1630,
+          "y": 626
+        }
+      ]
+    }
+  },
+  {
+    "description": "EAL",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1646,
+          "y": 716
+        },
+        {
+          "x": 1643,
+          "y": 701
+        },
+        {
+          "x": 1655,
+          "y": 699
+        },
+        {
+          "x": 1658,
+          "y": 714
+        }
+      ]
+    }
+  },
+  {
+    "description": "DEXTROSE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1642,
+          "y": 697
+        },
+        {
+          "x": 1636,
+          "y": 667
+        },
+        {
+          "x": 1648,
+          "y": 664
+        },
+        {
+          "x": 1654,
+          "y": 695
+        }
+      ]
+    }
+  },
+  {
+    "description": "SEL",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1636,
+          "y": 662
+        },
+        {
+          "x": 1634,
+          "y": 652
+        },
+        {
+          "x": 1646,
+          "y": 650
+        },
+        {
+          "x": 1648,
+          "y": 660
+        }
+      ]
+    }
+  },
+  {
+    "description": "LACTATE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1634,
+          "y": 650
+        },
+        {
+          "x": 1629,
+          "y": 625
+        },
+        {
+          "x": 1641,
+          "y": 623
+        },
+        {
+          "x": 1646,
+          "y": 648
+        }
+      ]
+    }
+  },
+  {
+    "description": "DE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1629,
+          "y": 623
+        },
+        {
+          "x": 1628,
+          "y": 615
+        },
+        {
+          "x": 1638,
+          "y": 613
+        },
+        {
+          "x": 1640,
+          "y": 621
+        }
+      ]
+    }
+  },
+  {
+    "description": "POTASSM",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1658,
+          "y": 716
+        },
+        {
+          "x": 1651,
+          "y": 677
+        },
+        {
+          "x": 1662,
+          "y": 674
+        },
+        {
+          "x": 1670,
+          "y": 714
+        }
+      ]
+    }
+  },
+  {
+    "description": "SR",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1650,
+          "y": 673
+        },
+        {
+          "x": 1646,
+          "y": 653
+        },
+        {
+          "x": 1657,
+          "y": 651
+        },
+        {
+          "x": 1661,
+          "y": 671
+        }
+      ]
+    }
+  },
+  {
+    "description": "CONTENT",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1645,
+          "y": 649
+        },
+        {
+          "x": 1640,
+          "y": 621
+        },
+        {
+          "x": 1651,
+          "y": 618
+        },
+        {
+          "x": 1657,
+          "y": 647
+        }
+      ]
+    }
+  },
+  {
+    "description": "AMDONDE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1667,
+          "y": 720
+        },
+        {
+          "x": 1660,
+          "y": 682
+        },
+        {
+          "x": 1672,
+          "y": 680
+        },
+        {
+          "x": 1679,
+          "y": 718
+        }
+      ]
+    }
+  },
+  {
+    "description": "MA",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1660,
+          "y": 679
+        },
+        {
+          "x": 1658,
+          "y": 667
+        },
+        {
+          "x": 1670,
+          "y": 665
+        },
+        {
+          "x": 1672,
+          "y": 677
+        }
+      ]
+    }
+  },
+  {
+    "description": "MOOFE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1657,
+          "y": 661
+        },
+        {
+          "x": 1653,
+          "y": 635
+        },
+        {
+          "x": 1664,
+          "y": 633
+        },
+        {
+          "x": 1669,
+          "y": 659
+        }
+      ]
+    }
+  },
+  {
+    "description": "CES",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1653,
+          "y": 633
+        },
+        {
+          "x": 1650,
+          "y": 613
+        },
+        {
+          "x": 1661,
+          "y": 611
+        },
+        {
+          "x": 1664,
+          "y": 631
+        }
+      ]
+    }
+  },
+  {
+    "description": "PHOSPHATE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1676,
+          "y": 718
+        },
+        {
+          "x": 1670,
+          "y": 679
+        },
+        {
+          "x": 1682,
+          "y": 678
+        },
+        {
+          "x": 1688,
+          "y": 716
+        }
+      ]
+    }
+  },
+  {
+    "description": "DE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1671,
+          "y": 676
+        },
+        {
+          "x": 1670,
+          "y": 669
+        },
+        {
+          "x": 1681,
+          "y": 667
+        },
+        {
+          "x": 1682,
+          "y": 674
+        }
+      ]
+    }
+  },
+  {
+    "description": "SOOUK",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1669,
+          "y": 667
+        },
+        {
+          "x": 1665,
+          "y": 638
+        },
+        {
+          "x": 1677,
+          "y": 637
+        },
+        {
+          "x": 1681,
+          "y": 665
+        }
+      ]
+    }
+  },
+  {
+    "description": "P",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1665,
+          "y": 636
+        },
+        {
+          "x": 1664,
+          "y": 628
+        },
+        {
+          "x": 1675,
+          "y": 626
+        },
+        {
+          "x": 1676,
+          "y": 634
+        }
+      ]
+    }
+  },
+  {
+    "description": "CARBAENNE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1687,
+          "y": 719
+        },
+        {
+          "x": 1679,
+          "y": 668
+        },
+        {
+          "x": 1691,
+          "y": 666
+        },
+        {
+          "x": 1699,
+          "y": 717
+        }
+      ]
+    }
+  },
+  {
+    "description": "ACDE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1679,
+          "y": 664
+        },
+        {
+          "x": 1676,
+          "y": 646
+        },
+        {
+          "x": 1688,
+          "y": 644
+        },
+        {
+          "x": 1691,
+          "y": 662
+        }
+      ]
+    }
+  },
+  {
+    "description": "ASCOR",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1676,
+          "y": 644
+        },
+        {
+          "x": 1673,
+          "y": 624
+        },
+        {
+          "x": 1685,
+          "y": 622
+        },
+        {
+          "x": 1688,
+          "y": 642
+        }
+      ]
+    }
+  },
+  {
+    "description": "NTRITE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1700,
+          "y": 719
+        },
+        {
+          "x": 1696,
+          "y": 694
+        },
+        {
+          "x": 1708,
+          "y": 692
+        },
+        {
+          "x": 1712,
+          "y": 717
+        }
+      ]
+    }
+  },
+  {
+    "description": "DE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1696,
+          "y": 692
+        },
+        {
+          "x": 1695,
+          "y": 684
+        },
+        {
+          "x": 1706,
+          "y": 682
+        },
+        {
+          "x": 1707,
+          "y": 690
+        }
+      ]
+    }
+  },
+  {
+    "description": "SOO",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1695,
+          "y": 682
+        },
+        {
+          "x": 1693,
+          "y": 669
+        },
+        {
+          "x": 1704,
+          "y": 667
+        },
+        {
+          "x": 1706,
+          "y": 680
+        }
+      ]
+    }
+  },
+  {
+    "description": "AEE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1689,
+          "y": 655
+        },
+        {
+          "x": 1682,
+          "y": 611
+        },
+        {
+          "x": 1695,
+          "y": 609
+        },
+        {
+          "x": 1702,
+          "y": 653
+        }
+      ]
+    }
+  },
+  {
+    "description": "SOOUM",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1711,
+          "y": 722
+        },
+        {
+          "x": 1706,
+          "y": 695
+        },
+        {
+          "x": 1717,
+          "y": 694
+        },
+        {
+          "x": 1722,
+          "y": 720
+        }
+      ]
+    }
+  },
+  {
+    "description": "SERDE",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1706,
+          "y": 691
+        },
+        {
+          "x": 1701,
+          "y": 659
+        },
+        {
+          "x": 1711,
+          "y": 658
+        },
+        {
+          "x": 1716,
+          "y": 689
+        }
+      ]
+    }
+  },
+  {
+    "description": "FUME",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1700,
+          "y": 654
+        },
+        {
+          "x": 1697,
+          "y": 634
+        },
+        {
+          "x": 1707,
+          "y": 633
+        },
+        {
+          "x": 1710,
+          "y": 652
+        }
+      ]
+    }
+  },
+  {
+    "description": "FUM",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1696,
+          "y": 630
+        },
+        {
+          "x": 1694,
+          "y": 617
+        },
+        {
+          "x": 1704,
+          "y": 616
+        },
+        {
+          "x": 1706,
+          "y": 628
+        }
+      ]
+    }
+  },
+  {
+    "description": "S",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1615,
+          "y": 627
+        },
+        {
+          "x": 1619,
+          "y": 650
+        },
+        {
+          "x": 1608,
+          "y": 651
+        },
+        {
+          "x": 1604,
+          "y": 629
+        }
+      ]
+    }
+  },
+  {
+    "description": "N",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1622,
+          "y": 674
+        },
+        {
+          "x": 1624,
+          "y": 688
+        },
+        {
+          "x": 1613,
+          "y": 690
+        },
+        {
+          "x": 1611,
+          "y": 676
+        }
+      ]
+    }
+  },
+  {
+    "description": "NS",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1625,
+          "y": 691
+        },
+        {
+          "x": 1629,
+          "y": 715
+        },
+        {
+          "x": 1617,
+          "y": 717
+        },
+        {
+          "x": 1613,
+          "y": 693
+        }
+      ]
+    }
+  },
+  {
+    "description": "estrol",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1610,
+          "y": 524
+        },
+        {
+          "x": 1605,
+          "y": 495
+        },
+        {
+          "x": 1619,
+          "y": 493
+        },
+        {
+          "x": 1624,
+          "y": 522
+        }
+      ]
+    }
+  },
+  {
+    "description": "15",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1606,
+          "y": 492
+        },
+        {
+          "x": 1605,
+          "y": 484
+        },
+        {
+          "x": 1617,
+          "y": 482
+        },
+        {
+          "x": 1619,
+          "y": 490
+        }
+      ]
+    }
+  },
+  {
+    "description": "Sodium/Sodium",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1644,
+          "y": 595
+        },
+        {
+          "x": 1632,
+          "y": 526
+        },
+        {
+          "x": 1643,
+          "y": 524
+        },
+        {
+          "x": 1655,
+          "y": 593
+        }
+      ]
+    }
+  },
+  {
+    "description": "48",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1632,
+          "y": 523
+        },
+        {
+          "x": 1630,
+          "y": 510
+        },
+        {
+          "x": 1639,
+          "y": 509
+        },
+        {
+          "x": 1641,
+          "y": 521
+        }
+      ]
+    }
+  },
+  {
+    "description": "mg",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1629,
+          "y": 508
+        },
+        {
+          "x": 1627,
+          "y": 499
+        },
+        {
+          "x": 1639,
+          "y": 497
+        },
+        {
+          "x": 1641,
+          "y": 506
+        }
+      ]
+    }
+  },
+  {
+    "description": "Glucides",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1652,
+          "y": 531
+        },
+        {
+          "x": 1645,
+          "y": 500
+        },
+        {
+          "x": 1658,
+          "y": 497
+        },
+        {
+          "x": 1665,
+          "y": 528
+        }
+      ]
+    }
+  },
+  {
+    "description": "19",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1646,
+          "y": 497
+        },
+        {
+          "x": 1644,
+          "y": 486
+        },
+        {
+          "x": 1655,
+          "y": 484
+        },
+        {
+          "x": 1658,
+          "y": 495
+        }
+      ]
+    }
+  },
+  {
+    "description": "SD",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1721,
+          "y": 641
+        },
+        {
+          "x": 1726,
+          "y": 670
+        },
+        {
+          "x": 1715,
+          "y": 671
+        },
+        {
+          "x": 1710,
+          "y": 643
+        }
+      ]
+    }
+  },
+  {
+    "description": "NO",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1727,
+          "y": 673
+        },
+        {
+          "x": 1732,
+          "y": 705
+        },
+        {
+          "x": 1721,
+          "y": 707
+        },
+        {
+          "x": 1715,
+          "y": 675
+        }
+      ]
+    }
+  },
+  {
+    "description": "50",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1724,
+          "y": 452
+        },
+        {
+          "x": 1725,
+          "y": 468
+        },
+        {
+          "x": 1715,
+          "y": 469
+        },
+        {
+          "x": 1713,
+          "y": 453
+        }
+      ]
+    }
+  },
+  {
+    "description": "RURM",
+    "bounding_poly": {
+      "vertices": [
+        {
+          "x": 1757,
+          "y": 522
+        },
+        {
+          "x": 1765,
+          "y": 562
+        },
+        {
+          "x": 1753,
+          "y": 565
+        },
+        {
+          "x": 1745,
+          "y": 524
+        }
+      ]
+    }
+  }
+]
