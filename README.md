@@ -118,9 +118,6 @@ If you use this dataset, please cite the following paper:
 }
 ```
 
-## Contact
-If you have any questions, please contact:
-
 <h2>Contact</h2>
 <ul>
   <li>Email: <a href="mailto:tobias.pettersson@itab.com">tobias.pettersson[at]itab.com</a></li>
