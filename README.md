@@ -109,15 +109,15 @@ created to the original images/texts, so no significant storage space is require
 ## Citation
 If you use this dataset, please cite the following paper:
 ```
-@article{,
-    author = {Tobias Pettersson and Maria Riveiro and Tuwe Löfström},
-    title = {Multimodal Fine-Grained Grocery Product Recognition using Image and OCR Text},
-    journal = {},
+@article{pettersson2024,
+    title = {Multimodal fine-grained grocery product recognition using image and OCR text},
+    author = {Pettersson, Tobias and Riveiro, Maria and L{\"o}fstr{\"o}m, Tuwe},
+    journal = {Machine Vision and Applications},
+    volume = {35},
+    number = {4},
+    pages = {79},
     year = {2024},
-    volume = {},
-    number = {},
-    pages = {},
-    note = {under review}
+    publisher = {Springer}
 }
 ```
 
